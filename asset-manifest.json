@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ddcb53b6.css",
+    "main.js": "/portfolio/static/js/main.a9427c12.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/FJULIS_Freshman manual-4-horz.png": "/portfolio/static/media/FJULIS_Freshman manual-4-horz.aa50acc84afbf757a04a.png",
+    "static/media/P_20201204_192945.jpg": "/portfolio/static/media/P_20201204_192945.5fbaf3c4c34e95e049ba.jpg",
+    "static/media/推廣活動海報.jpg": "/portfolio/static/media/推廣活動海報.3a54ef6b79c1c980f519.jpg",
+    "static/media/97-01.png": "/portfolio/static/media/97-01.ffb965586b4821cbe83d.png",
+    "static/media/17.jpg": "/portfolio/static/media/17.bdd675bdcefbb52ee526.jpg",
+    "static/media/164-01.jpg": "/portfolio/static/media/164-01.5ecd8104689b2da45f77.jpg",
+    "static/media/2.png": "/portfolio/static/media/2.7726951cbcddb5f4475b.png",
+    "static/media/15-1.jpg": "/portfolio/static/media/15-1.b1c4df57cf10d9fdd382.jpg",
+    "static/media/50-1.jpg": "/portfolio/static/media/50-1.d53d7a76241f2bb3ba18.jpg",
+    "static/media/10-01-1.jpg": "/portfolio/static/media/10-01-1.1bf1a7e25475f4eb965a.jpg",
+    "static/media/3-7.png": "/portfolio/static/media/3-7.0e5a03a68efa81adf633.png",
+    "static/media/30-1.jpg": "/portfolio/static/media/30-1.4e49cc573c5a87022973.jpg",
+    "static/media/10-1.jpg": "/portfolio/static/media/10-1.8be6ba5c972354dfaee1.jpg",
+    "index.html": "/portfolio/index.html",
+    "static/media/Arrow right.svg": "/portfolio/static/media/Arrow right.7ad1022bf27a2cd39fc3e2a413f97299.svg",
+    "static/media/Arrow left.svg": "/portfolio/static/media/Arrow left.e3546c33e1b7639660ae5c1c922d930f.svg",
+    "main.ddcb53b6.css.map": "/portfolio/static/css/main.ddcb53b6.css.map",
+    "main.a9427c12.js.map": "/portfolio/static/js/main.a9427c12.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcb53b6.css",
+    "static/js/main.a9427c12.js"
+  ]
+}
