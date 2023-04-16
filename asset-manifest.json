@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ddcb53b6.css",
-    "main.js": "/portfolio/static/js/main.a9427c12.js",
+    "main.js": "/portfolio/static/js/main.a5ffee49.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/FJULIS_Freshman manual-4-horz.png": "/portfolio/static/media/FJULIS_Freshman manual-4-horz.aa50acc84afbf757a04a.png",
     "static/media/P_20201204_192945.jpg": "/portfolio/static/media/P_20201204_192945.5fbaf3c4c34e95e049ba.jpg",
@@ -20,11 +20,11 @@
     "static/media/Arrow right.svg": "/portfolio/static/media/Arrow right.7ad1022bf27a2cd39fc3e2a413f97299.svg",
     "static/media/Arrow left.svg": "/portfolio/static/media/Arrow left.e3546c33e1b7639660ae5c1c922d930f.svg",
     "main.ddcb53b6.css.map": "/portfolio/static/css/main.ddcb53b6.css.map",
-    "main.a9427c12.js.map": "/portfolio/static/js/main.a9427c12.js.map",
+    "main.a5ffee49.js.map": "/portfolio/static/js/main.a5ffee49.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddcb53b6.css",
-    "static/js/main.a9427c12.js"
+    "static/js/main.a5ffee49.js"
   ]
 }
